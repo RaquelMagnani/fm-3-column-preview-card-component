@@ -29,17 +29,15 @@ Users should be able to:
 
 #### Mobile
 
-![Mobile](./images/Screen%20Shot-mobile1.png)
+![Mobile](/3-column-preview-card-component-main//images/Screen%20Shot-mobile1.png)
 
 #### Desktop
 
-![Desktop](./images/Screen%20Shot%20%20desktop.png)
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Desktop](/3-column-preview-card-component-main/images/Screen%20Shot%20%20desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [github](https://github.com/RaquelMagnani/fm-3-column-preview-card-component)
 
 ## My process
 
